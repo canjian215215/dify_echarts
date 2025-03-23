@@ -35,24 +35,45 @@ INNERIP,CPU,DISK,MEM
   
 ### Example
 - pie
+  
   ![alt text](./images/image.png)
+
 - rounded_donut
+  
   ![alt text](./images/image-1.png)
+
 - gap_pie
+  
   ![alt text](./images/image-2.png)
+
 - semi_donut
+  
   ![alt text](./images/image-3.png)
+
 - rose
+  
   ![alt text](./images/image-4.png)
+
 - stacked_line
+  
   ![alt text](./images/image-5.png)
+
 - bar
+  
   ![alt text](./images/image-6.png)
+
 - grouped_bar
+  
   ![alt text](./images/image-9.png)
+
 - horizontal_bar
+  
   ![alt text](./images/image-7.png)
+
 - line
+  
   ![alt text](./images/image-8.png)
+
 - scatter
+  
   ![alt text](./images/image-10.png)
